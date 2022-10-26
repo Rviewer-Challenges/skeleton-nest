@@ -10,6 +10,23 @@
 This repository is a Backend Javascript & Typescript skeleton with Nest, designed for quickly getting started
 developing an API. Check the [Getting Started](#getting-started) for full details.
 
+## Requeriments
+- Node.js
+
+## Usage
+- Install dependencies
+```bash
+npm install
+```
+- Run project in development mode
+```bash
+npm run start:dev
+```
+- Run coverage test
+```bash
+npm run test:cov
+```
+
 ## Support
 
 If you are having problems or need anything else, please let us know by
